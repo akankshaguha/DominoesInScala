@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.hotels:plunger:3.0.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.hotels/plunger/3.0.2/c50f9495df4edf61e4b6a7220150d4b4e690d853/plunger-3.0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.hotels/plunger/3.0.2/a82d4ce55312e4b704d9fe7414fc5d6e07def02a/plunger-3.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

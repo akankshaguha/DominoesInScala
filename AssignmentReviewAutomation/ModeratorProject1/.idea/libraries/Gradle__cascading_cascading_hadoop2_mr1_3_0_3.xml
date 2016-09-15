@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: cascading:cascading-hadoop2-mr1:3.0.3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/cascading/cascading-hadoop2-mr1/3.0.3/9af69ddf089ae285a579104c33953d1d0efc692e/cascading-hadoop2-mr1-3.0.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/cascading/cascading-hadoop2-mr1/3.0.3/38d583ff11345ffe3dd28a2ceb5930499f081ff5/cascading-hadoop2-mr1-3.0.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
